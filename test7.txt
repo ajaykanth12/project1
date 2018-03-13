@@ -1,0 +1,18 @@
+ Volume in drive D has no label.
+ Volume Serial Number is BC38-F272
+
+ Directory of D:\Devops\My project
+
+03/13/2018  12:12 AM    <DIR>          .
+03/13/2018  12:12 AM    <DIR>          ..
+01/30/2018  10:31 PM               395 first.html
+01/30/2018  10:03 PM               344 test.txt
+01/30/2018  10:56 PM               445 test1.txt
+01/31/2018  10:59 PM               495 test2.txt
+01/31/2018  11:15 PM               545 test3.txt
+02/13/2018  11:52 AM               595 test4.txt
+02/13/2018  11:53 AM               595 test5.txt
+03/13/2018  12:01 AM               695 test6.txt
+03/13/2018  12:12 AM                 0 test7.txt
+               9 File(s)          4,109 bytes
+               2 Dir(s)  416,762,404,864 bytes free
